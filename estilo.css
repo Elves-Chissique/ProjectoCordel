@@ -97,3 +97,13 @@ footer{
     padding-bottom: 10px;
     padding-top: 10px;
 }
+
+@media only screen and (max-width: 600px){
+    header{
+        font-size: 86%;
+        background-color:blue;
+    }
+    section{
+        font-size:9.5vw;
+    }
+}
