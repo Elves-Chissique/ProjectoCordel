@@ -100,7 +100,7 @@ footer{
 
 @media only screen and (max-width: 600px){
     header{
-        font-size: 86%;
+        font-size:9.5vw;
         background-color:blue;
     }
     section{
